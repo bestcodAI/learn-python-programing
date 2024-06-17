@@ -1,0 +1,3 @@
+x = {"name": "Chamnan","age": 25}
+
+print(x.name)

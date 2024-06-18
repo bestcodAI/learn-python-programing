@@ -34,7 +34,7 @@ class MainWidget(RelativeLayout):
     H_LINES_SPACING = .1  # percentage in screen height
     horizontal_lines = []
 
-    SPEED = .8
+    SPEED = .5
     current_offset_y = 0
     current_y_loop = 0
 
